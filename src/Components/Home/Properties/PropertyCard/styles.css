@@ -1,0 +1,41 @@
+.card-container {
+  background-color: white;
+  border-radius: 10px;
+  margin: 10px;
+  margin-left: 23px;
+  max-width: 25%;
+  flex: 1 1 25%;
+  padding: 10px;
+  line-height: 20px;
+  height: max-content;
+}
+.property-price {
+  color: gray;
+}
+.property-price span {
+  color: #7064ef;
+  font-weight: 600;
+  font-size: 15px;
+}
+.property-card_wrap {
+  font-size: 8px;
+}
+.property-card_price_wrap {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.property-indoor-information {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.property-beds,
+.property-bathrooms,
+.property-area {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  font-size: 7px;
+}

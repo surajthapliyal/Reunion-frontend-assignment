@@ -1,0 +1,19 @@
+.home {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  position: relative;
+}
+.home_content-wrap {
+  margin: auto;
+  padding: 1rem;
+  width: 700px;
+  position: absolute;
+  top: 70px;
+  left: 0;
+  right: 0;
+}
+
+.home_properties-wrap {
+  margin: auto;
+}
