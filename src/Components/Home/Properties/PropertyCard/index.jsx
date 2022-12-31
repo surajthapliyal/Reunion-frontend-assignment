@@ -9,7 +9,9 @@ const PropertyCard = ({ property }) => {
   return (
     <div className="card-container">
       <div className="property-card_wrap">
-        <div className="property-card_image"></div>
+        <div className="property-card_image">
+          <img style={{ maxHeight: "100%", maxWidth: "100%" }} src={property.imgsrc} alt="" />
+        </div>
         <div className="property-card_content_wrap">
           <div className="property-card_price_wrap">
             <div className="property-price"><span>${property.price}</span>/month</div>

@@ -8,7 +8,8 @@ const PropertiesData = [
         numberOfBathrooms: "1",
         area: "5x7",
         type: "House",
-        location: "New York, USA"
+        location: "New York, USA",
+        imgsrc: "https://cf.bstatic.com/xdata/images/hotel/square600/265768927.webp?k=0284a7a485eb4bc94cdb78c777950a09deab398b1ade5bdf29b49a7e75374cf5&o=&s=1"
     },
     {
         id: "2",
@@ -19,7 +20,8 @@ const PropertiesData = [
         numberOfBathrooms: "1",
         area: "6x7",
         type: "Apartment",
-        location: "New York, USA"
+        location: "New York, USA",
+        imgsrc: "https://cf.bstatic.com/xdata/images/hotel/square600/205408681.webp?k=ba3438ee7612864906b0e0f5191f2a39bf8765825c65f833fe2b00337b2d3bdd&o=&s=1"
     },
     {
         id: "3",
@@ -30,7 +32,8 @@ const PropertiesData = [
         numberOfBathrooms: "2",
         area: "6x6",
         type: "Apartment",
-        location: "New York, USA"
+        location: "New York, USA",
+        imgsrc: "https://cf.bstatic.com/xdata/images/hotel/square600/340258150.webp?k=0f3e2f50c9f8b81d17380f115b6cc8b06d3863af8be8f2ba41188a8988c68df2&o=&s=1"
     },
     {
         id: "4",
@@ -40,8 +43,9 @@ const PropertiesData = [
         numberOfBeds: "2",
         numberOfBathrooms: "2",
         area: "5x6",
-        type: "House",
-        location: "New York, USA"
+        type: "Hotel",
+        location: "New York, USA",
+        imgsrc: "https://cf.bstatic.com/xdata/images/hotel/square600/129148007.webp?k=53b10c7c5f7f75a51f9f5035777d4e2fa37c8482044e138deb49270a5b582406&o=&s=1"
     },
     {
         id: "5",
@@ -52,7 +56,8 @@ const PropertiesData = [
         numberOfBathrooms: "1",
         area: "7x7",
         type: "Hotel",
-        location: "New York, USA"
+        location: "New York, USA",
+        imgsrc: "https://cf.bstatic.com/xdata/images/hotel/square600/129166393.webp?k=33d43cc0ae229eeaaddd400e270499fc690cd52dfed7b459f7261ec6e8cd2694&o=&s=1"
     },
     {
         id: "6",
@@ -63,7 +68,8 @@ const PropertiesData = [
         numberOfBathrooms: "2",
         area: "6x7",
         type: "Hotel",
-        location: "New York, USA"
+        location: "New York, USA",
+        imgsrc: "https://cf.bstatic.com/xdata/images/hotel/square600/270595384.webp?k=a692d34b2a955bd36716259ce0b74141f055aff6aa581ba7508187c4e0b3e350&o=&s=1"
     },
     {
         id: "7",
@@ -74,7 +80,8 @@ const PropertiesData = [
         numberOfBathrooms: "1",
         area: "6x6",
         type: "Apartment",
-        location: "New York, USA"
+        location: "New York, USA",
+        imgsrc: "https://cf.bstatic.com/xdata/images/hotel/square600/342960946.webp?k=e7d8ace799f531761490daac76e31eb2224956d5f29ce2895572da75635f702d&o=&s=1"
     },
     {
         id: "8",
@@ -85,7 +92,8 @@ const PropertiesData = [
         numberOfBathrooms: "2",
         area: "7x7",
         type: "Hotel",
-        location: "New York, USA"
+        location: "New York, USA",
+        imgsrc: "https://cf.bstatic.com/xdata/images/hotel/square600/54885329.webp?k=509f0bab40f210154198eeac56e4ed55668a1d2d49ba0b90838751d3bbfdd6c7&o=&s=1"
     },
     {
         id: "9",
@@ -96,7 +104,8 @@ const PropertiesData = [
         numberOfBathrooms: "1",
         area: "4x8",
         type: "Hotel",
-        location: "New York, USA"
+        location: "New York, USA",
+        imgsrc: "https://cf.bstatic.com/xdata/images/hotel/square600/298592486.webp?k=fa302d6e41f88822c761d289634553570d8c302a9c0bd53b8f3558e178c64a98&o=&s=1"
     },
     {
         id: "10",
@@ -107,7 +116,8 @@ const PropertiesData = [
         numberOfBathrooms: "2",
         area: "8x7",
         type: "Apartment",
-        location: "New York, USA"
+        location: "New York, USA",
+        imgsrc:"https://cf.bstatic.com/xdata/images/hotel/square600/402753169.webp?k=7263bcf218d2d1700e0d5bf6faab408f1e3ae991f99217bb3675ae5856c0d8a0&o=&s=1"
     },
     {
         id: "11",
@@ -118,7 +128,8 @@ const PropertiesData = [
         numberOfBathrooms: "2",
         area: "7x7",
         type: "Hotel",
-        location: "New York, USA"
+        location: "New York, USA",
+        imgsrc: "https://cf.bstatic.com/xdata/images/hotel/square600/256787610.webp?k=c99b1e9d055bbf147f75ba0a48d93613d9dcd49058fbd30274942f30e2849ff2&o=&s=1"
     },
     {
         id: "12",
@@ -129,7 +140,8 @@ const PropertiesData = [
         numberOfBathrooms: "2",
         area: "6x7",
         type: "Hotel",
-        location: "New York, USA"
+        location: "New York, USA",
+        imgsrc: "https://cf.bstatic.com/xdata/images/hotel/square600/93953076.webp?k=dfcfaac515b72c87283202b9c6a6d15494a5619a2fe1ef9ca53ac1a8927f1912&o=&s=1"
     },
     {
         id: "13",
@@ -139,8 +151,9 @@ const PropertiesData = [
         numberOfBeds: "1",
         numberOfBathrooms: "1",
         area: "5x5",
-        type: "House",
-        location: "New York, USA"
+        type: "Hotel",
+        location: "New York, USA",
+        imgsrc: "https://cf.bstatic.com/xdata/images/hotel/square600/374719752.webp?k=c5addef992b575f3054b0e3876f2f86515a94f5ee15f969f24e7e387c2e70bb9&o=&s=1"
     },
     {
         id: "14",
@@ -151,7 +164,8 @@ const PropertiesData = [
         numberOfBathrooms: "2",
         area: "8x8",
         type: "Apartment",
-        location: "New York, USA"
+        location: "New York, USA",
+        imgsrc: "https://cf.bstatic.com/xdata/images/hotel/square600/331464392.webp?k=777bb39f88d3498e7ae01dd0f81232cace86f8c413f460fcaf17b4a83ef0e346&o=&s=1"
     },
     {
         id: "15",
@@ -162,7 +176,8 @@ const PropertiesData = [
         numberOfBathrooms: "1",
         area: "8x9",
         type: "House",
-        location: "New York, USA"
+        location: "New York, USA",
+        imgsrc: "https://cf.bstatic.com/xdata/images/hotel/square600/171658345.webp?k=cf4091e2a8e5d9f13305cd6bafe6daef462a460f7372b22b06330846a90938cd&o=&s=1"
     },
     {
         id: "16",
@@ -173,7 +188,8 @@ const PropertiesData = [
         numberOfBathrooms: "3",
         area: "10x12",
         type: "Hotel",
-        location: "New York, USA"
+        location: "New York, USA",
+        imgsrc: "https://cf.bstatic.com/xdata/images/hotel/square600/413769408.webp?k=32e11a7dafcc1c0501cef6248f395a27aa01ad1746a557a1cf13520169aff74c&o=&s=1"
     },
     {
         id: "17",
@@ -184,7 +200,8 @@ const PropertiesData = [
         numberOfBathrooms: "3",
         area: "5x5",
         type: "House",
-        location: "New York, USA"
+        location: "New York, USA",
+        imgsrc: "https://cf.bstatic.com/xdata/images/hotel/square600/349913490.webp?k=3f39d6c6e54072cc29e7ec98723a050246ca71721dc28679f32b4c8cf18bf449&o=&s=1"
     },
     {
         id: "18",
@@ -195,7 +212,8 @@ const PropertiesData = [
         numberOfBathrooms: "2",
         area: "8x7",
         type: "Apartment",
-        location: "New York, USA"
+        location: "New York, USA",
+        imgsrc: "https://cf.bstatic.com/xdata/images/hotel/square600/184372993.webp?k=a1d434bddefc5825ae00535b820f68eba83f2b2c7f17504c4c31018849d7071c&o=&s=1"
     },
     {
         id: "19",
@@ -206,7 +224,8 @@ const PropertiesData = [
         numberOfBathrooms: "2",
         area: "6x7",
         type: "Hotel",
-        location: "New York, USA"
+        location: "New York, USA",
+        imgsrc: "https://cf.bstatic.com/xdata/images/hotel/square600/230333808.webp?k=5208752494156465a0742f8cbd15049ae4e014f549a91d8ea6e41e3e09f2bbeb&o=&s=1"
     },
     {
         id: "20",
@@ -217,7 +236,68 @@ const PropertiesData = [
         numberOfBathrooms: "1",
         area: "5x8",
         type: "Apartment",
-        location: "New York, USA"
+        location: "New York, USA",
+        imgsrc: "https://cf.bstatic.com/xdata/images/hotel/square600/235060520.webp?k=f738bd583a649f04169cd8585228ea64d7b40354013124fb7cd002c3d1a6d96f&o=&s=1"
+    },
+    {
+        id: "21",
+        name: "Piccadilly Circus St James",
+        price: "1400",
+        address: "Oxendon street, Westminster Borough, London",
+        numberOfBeds: "2",
+        numberOfBathrooms: "2",
+        area: "6x8",
+        type: "Apartment",
+        location: "London, UK",
+        imgsrc: "https://cf.bstatic.com/xdata/images/hotel/square600/57477703.webp?k=0d0403f413c6418b12baae418b4fac63563aa15d2e14ea85c7913b8dca6e5fa6&o=&s=1"
+    },
+    {
+        id: "22",
+        name: "Leonardo Royal London St Paul’s",
+        price: "2250",
+        address: "10 Godliman Street, City of London, London",
+        numberOfBeds: "4",
+        numberOfBathrooms: "1",
+        area: "9x8",
+        type: "Hotel",
+        location: "London, UK",
+        imgsrc: "https://cf.bstatic.com/xdata/images/hotel/square600/284700324.webp?k=bb67886b968a2a63f6c13cf0b65eef3216e1c4b4b4d55c7650c3bcad85f84a4e&o=&s=1"
+    },
+    {
+        id: "23",
+        name: "The best apartments",
+        price: "1880",
+        address: "5 Palmers Road, London, SW14 7NB",
+        numberOfBeds: "2",
+        numberOfBathrooms: "2",
+        area: "6x8",
+        type: "Apartment",
+        location: "London, UK",
+        imgsrc: "https://cf.bstatic.com/xdata/images/hotel/square600/416006127.webp?k=13c3335f611192a10de56a362d897617893d897e65ecea87f44b6e83a0a34f81&o=&s=1"
+    },
+    {
+        id: "24",
+        name: "Radisson Blu Edwardian Kenilworth",
+        price: "2100",
+        address: "97 Great Russell Street, Bloomsbury, Camden",
+        numberOfBeds: "3",
+        numberOfBathrooms: "1",
+        area: "5x8",
+        type: "House",
+        location: "London, UK",
+        imgsrc: "https://cf.bstatic.com/xdata/images/hotel/square600/232816777.webp?k=e38abd999fbc9fd1ae1afc7b123292ed88ec70b5e87e734d5d59f7ef0265c180&o=&s=1"
+    },
+    {
+        id: "25",
+        name: "Yotel London Shoreditch",
+        price: "2100",
+        address: "309 - 317 Cambridge Heath Road Bethnal Green",
+        numberOfBeds: "3",
+        numberOfBathrooms: "2",
+        area: "7x8",
+        type: "Hotel",
+        location: "London, UK",
+        imgsrc: "https://cf.bstatic.com/xdata/images/hotel/square600/358780238.webp?k=34f523fc5ca1fff817052bd68d494c8eb0fb27c1b0209be400643bcfb0131da3&o=&s=1"
     },
 
 ]
